@@ -31,7 +31,7 @@
 <p align="center">
 
   <!-- Programming Languages -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="45" title="C#"/>
+  <img src="https://raw.githubusercontent.com/PKief/vscode-icons/main/icons/file_type_php.svg" width="45" title="PHP"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="45" title="Python"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="45" title="TypeScript"/>
