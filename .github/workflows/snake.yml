@@ -11,6 +11,10 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    # هذا السطر السحري يحل مشكلة الصلاحيات ويجبر جيتهاب على السماح بقراءة المساهمات ورفع الصورة
+    permissions:
+      contents: write
+    
     steps:
       - name: Clone repo
         uses: actions/checkout@v4
