@@ -80,22 +80,20 @@
 
 ## 🌍 Connect With Me
 
-## 🌍 Connect With Me
-
 <div align="center">
 <table align="center" style="border-collapse: collapse; border: none; background: transparent;">
 <tr>
 <td align="center" width="80" style="border: none;">
-<a href="https://href.li/?https://www.linkedin.com/in/tareq-al-attar-8507861a6/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="45" height="45" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/tareq-al-attar-8507861a6/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="48" height="48" alt="LinkedIn"/></a>
 </td>
 <td align="center" width="80" style="border: none;">
-<a href="mailto:tarekattar2024@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" width="45" height="45" alt="Gmail"/></a>
+<a href="mailto:tarekattar2024@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" width="48" height="48" alt="Gmail"/></a>
 </td>
 <td align="center" width="80" style="border: none;">
-<a href="https://href.li/?https://wa.me/+970568292177" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/WhatsApp.svg" width="45" height="45" alt="WhatsApp"/></a>
+<a href="https://wa.me/+970568292177" target="_blank"><img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/whatsapp.svg" width="48" height="48" alt="WhatsApp"/></a>
 </td>
 <td align="center" width="80" style="border: none;">
-<a href="https://href.li/?https://www.instagram.com/tareq._.attar/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="45" height="45" alt="Instagram"/></a>
+<a href="https://www.instagram.com/tareq._.attar/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="48" height="45" alt="Instagram"/></a>
 </td>
 </tr>
 </table>
