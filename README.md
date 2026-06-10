@@ -61,20 +61,20 @@
 
   <!-- DevOps -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="45" title="GitHub"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original.svg" width="45" title="GitHub"/>
+  
 
   <!-- Testing -->
   <img src="https://skillicons.dev/icons?i=selenium" width="45" title="Selenium"/>
   
   <!-- AI -->
-  <img src="https://www.vectorlogo.zone/logos/claudeai/claudeai-icon.svg" width="45" title="Claude"/>
-  <img src="https://www.vectorlogo.zone/logos/cursor/cursor-icon.svg" width="45" title="Cursor"/>
-  <img src="https://www.vectorlogo.zone/logos/lovable/lovable-icon.svg" width="45" title="lovable"/>
-  <img src="https://www.vectorlogo.zone/logos/Replit/Replit-icon.svg" width="45" title="Replit"/>
-  <img src="https://www.vectorlogo.zone/logos/stitch/stitch-icon.svg" width="45" title="Stitch"/>
-  <img src="https://www.vectorlogo.zone/logos/antigravityai/antigravityai-icon.svg" width="45" title="antigravity"/>
-  <img src="https://www.vectorlogo.zone/logos/gemini/gemini-icon.svg" width="45" title="gemini"/>
-  <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" width="45" title="OpenAI"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" title="Scikit-Learn"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Claude_AI_symbol.svg" width="45" title="Claude AI"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Cursor_logo.png" width="45" title="Cursor AI"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Lovable_Logo_%2B_Wordmark_Black.png" width="45" title="Lovable"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/New_Replit_Logo.svg/960px-New_Replit_Logo.svg.png" width="45" title="Replit"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Google_Antigravity_Logo.svg/960px-Google_Antigravity_Logo.svg.png" width="45" title="Antigravity"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Gemini_sparkle_v002.svg/960px-Gemini_sparkle_v002.svg.png" width="45" title="Google Gemini"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/OpenAI_2017-22_logo.svg/960px-OpenAI_2017-22_logo.svg.png" width="45" title="OpenAI"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="45" title="NumPy"/>
 
   <!-- Desktop --><!-- Desktop -->
