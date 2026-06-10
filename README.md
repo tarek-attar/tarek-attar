@@ -80,36 +80,30 @@
 
 ## 🌍 Connect With Me
 
-<p align="center">
-  <table align="center">
-    <tr>
-       <td align="center" width="80">
-        <a href="https://www.linkedin.com/in/tareq-al-attar-8507861a6/" target="_blank">
-          <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/linkedin.svg" width="48" height="48" alt="LinkedIn"/>
-        </a>
-      </td>
-        <td align="center" width="80">
-        <a href="mailto:tarekattar2024@gmail.com" target="_blank">
-          <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/gmail.svg" width="48" height="48" alt="Gmail"/>
-        </a>
-      </td>
-      <td align="center" width="80">
-        <a href="https://wa.me/+970568292177" target="_blank">
-          <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/whatsapp.svg" width="48" height="48" alt="WhatsApp"/>
-        </a>
-      </td>
-      <td align="center" width="80">
-        <a href="https://www.instagram.com/tareq._.attar/" target="_blank">
-          <img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/instagram.svg" width="48" height="48" alt="Instagram"/>
-        </a>
-      </td>
-    
-    </tr>
-  </table>
-</p>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
-  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
-</a>
+## 🌍 Connect With Me
+
+<div align="center">
+<table align="center" style="border-collapse: collapse; border: none; background: transparent;">
+<tr>
+<td align="center" width="80" style="border: none;">
+<a href="https://href.li/?https://www.linkedin.com/in/tareq-al-attar-8507861a6/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="45" height="45" alt="LinkedIn"/></a>
+</td>
+<td align="center" width="80" style="border: none;">
+<a href="mailto:tarekattar2024@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" width="45" height="45" alt="Gmail"/></a>
+</td>
+<td align="center" width="80" style="border: none;">
+<a href="https://href.li/?https://wa.me/+970568292177" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/WhatsApp.svg" width="45" height="45" alt="WhatsApp"/></a>
+</td>
+<td align="center" width="80" style="border: none;">
+<a href="https://href.li/?https://www.instagram.com/tareq._.attar/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="45" height="45" alt="Instagram"/></a>
+</td>
+</tr>
+</table>
+
+<br />
+
+<img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: block; margin: 0 auto;"/>
+</div>
 
 ## 📊 GitHub Stats
 
